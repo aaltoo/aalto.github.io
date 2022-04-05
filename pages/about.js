@@ -4,5 +4,5 @@ export default function AboutPage() {
             <Link href="/">Back to home!</Link>
         </div>
     </>
-  }
+}
   
